@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Manrope:wght@200&family=Playfair+Display&family=Raleway:wght@100;400&display=swap');
+html{
+    scroll-behavior:smooth;   
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: cornsilk;
+}
+nav{
+    width: 100%;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+body header nav ul{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 23px 34px;
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+    font-family: Raleway, sans-serif ;
+}
+nav li a:hover{
+    color: gray;
+}
+.bg{
+    background: rgba(0, 0, 0, 0.8) url('HTML/Projects/R copy.jpg');
+    background-blend-mode: darken;
+    background-size: cover;
+}
+.container p {
+    font-family: Manrope, sans-serif;
+    color: white;
+    font-size: 20px;
+    
+
+}
+
+.head h2{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: Raleway, sans-serif;
+    
+}
+
+
+.yes{
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgb(57, 204, 57);
+    font-size: 20px;
+    border-radius: 100px;
+}
+.no{
+    border: 2px solid rgb(211, 52, 41);
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 100px;
+}
+.ck{
+    height: 300px;
+    padding: 100px 0px;
+    background-color: rgb(8, 8, 59);
+}
+.hea{
+    font-size: 25px;
+    
+    font-family: Raleway, sans-serif;
+}
+.head1{
+    border: 1px solid grey;
+    background-color: grey;
+    width: 100%;
+    
+}
+.head1 p{
+    font-family: Manrope, sans-serif;
+    color: white;
+}
+.imgg{
+    width: 400px;
+    height: 595px;
+    padding: 0px 920px;
+    position: absolute;
+    top: 795px;
+}
+.home{
+    text-decoration: none;
+    color: orange;
+}
+.l{
+    background-color:grey;
+    font-family: Manrope, sans-serif;
+    color: white;
+    width: 100%;
+}
+.lan{
+    text-decoration: none;
+    color: white;
+}
+.water{
+    text-decoration: none;
+    color: rgb(70, 70, 175);
+}
+.landd{
+    text-decoration: none;
+    color: rgb(78, 211, 78);
+}
+.water1{
+    text-decoration: none;
+    color:white;
+}
+.water3{
+    text-decoration: none;
+    color: rgb(35, 46, 192);
+}
+.immg{
+    width: 400px;
+    height: 590px;
+    padding: 0px 920px;
+    position: absolute;
+    top: 1410px;
+}
+.hong{
+    text-decoration: none;
+    color: orange;
+}
+.long{
+    text-decoration: none;
+    color: rgb(60, 177, 60);
+}
+.wong{
+    text-decoration: none;
+    color: blue;
+}
+.head10{
+    background-color: grey;
+    width: 100%;
+}
+.head10 p{
+    font-family: Manrope, sans-serif;
+    color: white;
+}
+header{
+    position: sticky;
+    top: 0px;
+    cursor: pointer;
+}
+.imagez{
+    height: 632px;
+    width: 871px;
+}
+.image10{
+    width: 700px;
+    height: 500px;
+}
+.image9{
+    width: 640px;
+    height: 500px;
+}
+.image4{
+    width: 700px;
+    height: 500px;
+}
+.imageLast{
+    width: 641px;
+    height: 500px;
+}

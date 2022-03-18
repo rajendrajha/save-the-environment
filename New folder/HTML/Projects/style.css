@@ -1,0 +1,60 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    
+   
+}
+.nav{
+    
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 50px;
+    
+}
+.nav ul{
+    overflow: auto;
+}
+.nav li{
+    float: left;
+    list-style: none;
+
+}
+.nav li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    padding: 0px 23px;
+    margin:  100px 0px;
+    font-family: 'Raleway', cursive;
+}
+.nav li a:hover{
+    color: black;
+}
+.img{
+    width: 200px;
+    height: 150px;
+    border-radius: 500px;
+}
+
+.m{
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    display: inline-block;
+    position: absolute;
+    left: 500px;
+}
+.n{
+    padding: 0px 13px;
+    border-radius: 100px;
+}
+.bg{
+    background: url('HTML/Projects/R copy.jpg');
+    background-blend-mode: lighten;
+    background-size: cover;
+}
