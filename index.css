@@ -27,7 +27,7 @@ body header nav ul{
 
 nav ul li {
     list-style: none;
-    padding: 23px 34px;
+    padding: 23px 64px;
 }
 nav li a{
     text-decoration: none;
@@ -79,7 +79,7 @@ nav li a:hover{
 }
 .hea{
     font-size: 25px;
-    
+    color: white;
     font-family: Raleway, sans-serif;
 }
 .head1{
