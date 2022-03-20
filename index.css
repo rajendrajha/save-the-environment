@@ -181,3 +181,29 @@ header{
     width: 641px;
     height: 500px;
 }
+@media only screen and (max-width:876px){
+    /* nav ul{
+        flex-direction: column;
+    } */
+    .imagez{
+        width: 500px;
+    }
+    .image4{
+        width: 500px;
+    }
+    .imageLast{
+        width: 400px;
+    }
+    .image10{
+        width: 500px;
+    }
+    .image9{
+        width: 500px;
+    }
+    nav ul{
+        padding: 0px 140px;
+    }
+    nav ul li{
+        padding: 0px 25px;
+    }
+}
