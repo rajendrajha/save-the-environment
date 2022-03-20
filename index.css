@@ -17,7 +17,7 @@ nav{
 }
 body header nav ul{
     display: flex;
-    width: 50%;
+    width: 22%;
     align-items: center;
     justify-content: center;
     position: sticky;
@@ -27,7 +27,7 @@ body header nav ul{
 
 nav ul li {
     list-style: none;
-    padding: 23px 64px;
+    padding: 23px 34px;
 }
 nav li a{
     text-decoration: none;
@@ -79,7 +79,7 @@ nav li a:hover{
 }
 .hea{
     font-size: 25px;
-    color: white;
+    
     font-family: Raleway, sans-serif;
 }
 .head1{
@@ -181,24 +181,27 @@ header{
     width: 641px;
     height: 500px;
 }
-@media only screen and (max-width:876px){
+@media only screen and (max-width:452px){
     /* nav ul{
         flex-direction: column;
     } */
     .imagez{
-        width: 500px;
+        width: 310px;
     }
     .image4{
-        width: 500px;
+        width: 310px;
     }
     .imageLast{
-        width: 400px;
+        width: 310px;
     }
     .image10{
-        width: 500px;
+        width: 310px;
     }
     .image9{
-        width: 500px;
+        width: 310px;
+    }
+    .imagef{
+        width: 310px;
     }
     nav ul{
         padding: 0px 140px;
