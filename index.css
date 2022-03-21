@@ -210,3 +210,22 @@ header{
         padding: 0px 25px;
     }
 }
+.rate li{
+    list-style: none;
+}
+.rate li a{
+    color: white;
+    text-decoration: none;
+}
+.rate{
+    position: absolute;
+    left: 650px;
+}
+.text{
+    color: white;
+    position: absolute;
+    left: 560px;
+}
+footer{
+    background-color: rgb(122, 53, 53);
+}
