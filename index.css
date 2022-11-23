@@ -6,6 +6,7 @@ body{
     margin: 0px;
     padding: 0px;
     background-color: rgb(29, 11, 112);
+    overflow:hidden;
 }
 nav{
     width: 100%;
